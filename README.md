@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @FirmamentWu
 - 👀 I’m interested in life
-- 🌱 I’m currently learning c++
-- 💞️ I’m looking to collaborate on cs
-- 📫 How to reach me 
+- 🌱 I’m currently learning LLM/MLLM
+
 
 
 <!---
